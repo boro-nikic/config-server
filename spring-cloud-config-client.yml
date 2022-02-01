@@ -1,1 +1,1 @@
-my.greeting: Greeting from microservice specific yml file
+my.greeting: Greeting from spring-cloud-config-client specific yml file
