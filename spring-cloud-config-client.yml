@@ -1,1 +1,2 @@
-my.greeting: ENC(rv0M0C7hwxymc3DOg6+lRtTUn4bMAv+hdGfbgmc7kLrExOO4MvG4suZYxCGsMynMWnAZ/QQ4PxcxtvtjHXSGhw9ug+owE+GgBK+F+let1Y0=)
+my:
+  greeting: {cipher}ddb6afccfe28806060b97da4889154cb9c21c4c904543a3727956a0d6c2e4f6c
